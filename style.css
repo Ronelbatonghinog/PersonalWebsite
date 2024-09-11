@@ -1,0 +1,9 @@
+#hero {
+  width: 1920px;
+  height: 1080px;
+}
+
+.sitename {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
